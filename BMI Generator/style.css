@@ -1,0 +1,26 @@
+html{
+    margin: 1;
+    padding: 10;
+}
+
+body{
+    margin: 100px;
+    padding: 100px;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+}
+form{
+    color: black;
+}
+
+.button{
+    justify-content: center;
+}
+
+span{
+  
+        background-color: gold;
+}
+
+
